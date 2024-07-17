@@ -1,15 +1,17 @@
 import Quirkify from "../assets/projects/quirkify.png";
 import MovieHub from "../assets/projects/moviehub.png";
 import SkyCast from "../assets/projects/health.png";
+import LHD from "../assets/projects/lhd.png";
 
+import LHDGIF from "../assets/projects/lhd.gif";
 import QuirkifyGIF from "../assets/projects/quirkify.gif";
 import MovieHubGIF from "../assets/projects/moviehub.gif";
 import SkyCastGIF from "../assets/projects/skycast.gif";
 
 export const ProjectsData = [
   {
-    img: Quirkify,
-    gif: QuirkifyGIF,
+    img: LHD,
+    gif: LHDGIF,
     title: "LHD Mobile Application",
     date: "2024",
     description:
