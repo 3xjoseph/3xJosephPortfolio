@@ -3,9 +3,9 @@ import Circles from "./Circles";
 
 const About = () => {
   const about = [
-    "I am dedicated to improving and utilizing my communication skills, organization skills, and my knowledge with my educational background. I am an adept multi-tasker, capable of addressing multiple tasks with an enthusiastic and positive approach to work. My strong work ethic and attention to detail ensure that I consistently deliver high-quality results.",
+    "I am dedicated to improving and utilizing my communication skills, organization skills, and my knowledge with my educational background. I am an adept multi-tasker, capable of addressing multiple tasks with enthusiastic and positive approach to work. ",
     <br />,
-    "I am adaptable to change, and eager to embrace new technologies and breakthroughs. I thrive in dynamic environments and am always looking for opportunities to learn and grow. With a passion for innovation and a commitment to continuous improvement, I am confident that I can contribute effectively to your organization.",
+    " I am adaptable to change, and eager to embrace new technologies and breakthroughs. I am confident that I can contribute effectively to your organization.",
   ];
 
   return (

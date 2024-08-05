@@ -19,7 +19,7 @@ const Hero = () => {
               Patrick Joseph Pronuevo
             </h3>
             <p className="text-[15px] md:text-[18px] mt-3 lg:mt-0 text-center lg:text-justify lg:text-[15px] xl:text-[16.5px] tracking-wide">
-              A Student Programmer from
+              A Graduate from
               <span className={spanStyle}> Bulacan State University, </span>
               Adept in the realms of
               <span className={spanStyle}> Web Development </span>
