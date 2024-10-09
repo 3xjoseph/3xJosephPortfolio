@@ -3,9 +3,8 @@ import Circles from "./Circles";
 
 const About = () => {
   const about = [
-    "I am dedicated to improving and utilizing my communication skills, organization skills, and my knowledge with my educational background. I am an adept multi-tasker, capable of addressing multiple tasks with enthusiastic and positive approach to work. ",
-    <br />,
-    " I am adaptable to change, and eager to embrace new technologies and breakthroughs. I am confident that I can contribute effectively to your organization.",
+    "I am a passionate and creative game developer with expertise in both 2D and 3D game development using Unity. My goal is to craft immersive and engaging experiences that resonate with players, blending innovative mechanics with compelling storytelling. I thrive on continuously learning and adapting to new technologies, trends, and techniques in the gaming industry, ensuring that each project I work on delivers fresh, exciting gameplay. Always striving for excellence, I am committed to pushing the boundaries of interactive entertainment.",
+    
   ];
 
   return (
